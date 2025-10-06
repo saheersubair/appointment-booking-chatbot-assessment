@@ -1,0 +1,6 @@
+python-service/.env
+python-service/myenv/
+backend/.env
+backend/node_modules/
+frontend/.env
+frontend/node_modules/

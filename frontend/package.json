@@ -1,0 +1,21 @@
+{
+  "name": "chatbot-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.0.1",
+    "axios": "^1.6.0",
+    "react-hook-form": "^7.47.0",
+    "framer-motion": "^10.16.4",
+    "@heroicons/react": "^2.0.18",
+    "date-fns": "^2.30.0"
+  }
+}
